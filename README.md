@@ -17,9 +17,22 @@
 </div>
 
 <h1 align="center">
-  Hey there. I`m Alexey
+  Hey there. I`m Alexey. QA Automation Engineer.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+### Languages and Tools :
+<div>
+  <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/Java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/Selenide.svg" title="Selenide" alt="Selenide" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/Gradle.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/JUnit5.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/Allure_Report.svg" title="Allure_Report" alt="Allure_Report" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/Intelij_IDEA.svg"  title="Intelij_IDEA" alt="Intelij_IDEA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/Selenoid.svg" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
+</div>
 
 <!--
 **lkuff/lkuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
