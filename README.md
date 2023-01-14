@@ -34,6 +34,8 @@
   <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/Selenoid.svg" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkuff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **lkuff/lkuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
