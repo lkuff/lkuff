@@ -22,6 +22,13 @@
 </h1>
 
 ---
+### These are my pet projects, new ones will be added over time :
+<div>
+  <a href="https://github.com/lkuff/software_product_project">
+    <p>software_product_project</p>
+  <a/>
+<div>
+---
 ### Languages and Tools :
 <div>
   <img src="https://github.com/lkuff/software_product_project/blob/master/images/logo/Java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -36,9 +43,8 @@
 </div>
 
 ---
-### Stats
+### Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkuff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **lkuff/lkuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
