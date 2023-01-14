@@ -27,7 +27,8 @@
   <a href="https://github.com/lkuff/software_product_project">
     <p>software_product_project</p>
   <a/>
-<div>
+</div>
+  
 ---
 ### Languages and Tools :
 <div>
