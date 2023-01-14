@@ -25,7 +25,7 @@
 ### These are my pet projects, new ones will be added over time :
 <div>
   <a href="https://github.com/lkuff/software_product_project">
-    <p>software_product_project</p>
+    <p>Software roduct project</p>
   <a/>
 </div>
   
