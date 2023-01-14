@@ -10,9 +10,8 @@
   <a href="https://t.me/leshkakuff">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge" alt="Youtube Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=lkuff&style=flat-square&color=blue" alt=""/>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=lkuff&style=flat-square&color=blue" alt="" align="center"/>
 
 <h1 align="center">
   Hey there. I`m Alexey
