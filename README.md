@@ -24,10 +24,10 @@
 ---
 ### These are my pet projects, new ones will be added over time :
 <div>
-  <a href="https://github.com/lkuff/software_product_project">
+  <a href="https://github.com/lkuff/software_product_project" target="blank">
     Software product project
   <a/>
-  <a href="https://github.com/lkuff/IBS_project">
+  <a href="https://github.com/lkuff/IBS_project" target="blank">
     <p>IBS project</p>
   <a/>
 </div>
