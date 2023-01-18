@@ -27,6 +27,9 @@
   <a href="https://github.com/lkuff/software_product_project">
     <p>Software product project</p>
   <a/>
+  <a href="https://github.com/lkuff/IBS_project">
+    <p>IBS project</p>
+  <a/>
 </div>
   
 ---
