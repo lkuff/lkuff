@@ -25,7 +25,7 @@
 ### These are my pet projects, new ones will be added over time :
 <div>
   <a href="https://github.com/lkuff/software_product_project">
-    <img src="/resources/img/logo.svg" alt="">
+    <img src="https://ppr.ru/resources/img/logo.svg" alt="">
     <p>Software product project</p>
   <a/>
   <a href="https://github.com/lkuff/IBS_project">
