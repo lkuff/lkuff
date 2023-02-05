@@ -28,10 +28,10 @@
     <p>Software product project</p>
   <a/>
   <a href="https://github.com/lkuff/IBS_project" target="_blank">
-    IBS project
+    <p>IBS project</p>
   <a/>
   <a href="https://github.com/lkuff/Soctech_project1" target="_blank">
-   Soctech project
+   <p>Soctech project</p>
   <a/>
 </div>
   
