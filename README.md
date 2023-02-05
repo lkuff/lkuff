@@ -30,6 +30,9 @@
   <a href="https://github.com/lkuff/IBS_project" target="_blank">
     <p>IBS project</p>
   <a/>
+  <a href="https://github.com/lkuff/Soctech_project1" target="_blank">
+   <p>Soctech projectt</p>
+  <a/>
 </div>
   
 ---
