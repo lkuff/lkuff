@@ -36,6 +36,9 @@
   <a href="https://github.com/lkuff/OpenRuProject" target="_blank">
    <p>OpenRu project</p>
   <a/>
+  <a href="https://github.com/lkuff/SberhealthProject" target="_blank">
+   <p>Sberhealth project</p>
+  <a/>
 </div>
   
 ---
