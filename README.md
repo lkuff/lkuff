@@ -33,6 +33,9 @@
   <a href="https://github.com/lkuff/Soctech_project1" target="_blank">
    <p>Soctech project</p>
   <a/>
+  <a href="https://github.com/lkuff/OpenRuProject" target="_blank">
+   <p>OpenRu project</p>
+  <a/>
 </div>
   
 ---
