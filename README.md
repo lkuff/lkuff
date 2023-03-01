@@ -39,6 +39,9 @@
   <a href="https://github.com/lkuff/SberhealthProject" target="_blank">
    <p>Sberhealth project</p>
   <a/>
+  <a href="https://github.com/lkuff/MorizoProject" target="_blank">
+   <p>Morizo project</p>
+  <a/>
 </div>
   
 ---
