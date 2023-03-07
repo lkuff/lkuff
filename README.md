@@ -23,7 +23,17 @@
 
 ---
 ### These are my pet projects, new ones will be added over time :
+<div>UI</div>
 <div>
+  <a href="https://github.com/lkuff/MorizoProject" target="_blank">
+   <p>Morizo project</p>
+  <a/>
+  <a href="https://github.com/lkuff/SberhealthProject" target="_blank">
+   <p>Sberhealth project</p>
+  <a/>
+  <a href="https://github.com/lkuff/OpenRuProject" target="_blank">
+   <p>OpenRu project</p>
+  <a/>
   <a href="https://github.com/lkuff/software_product_project" target="_blank">
     <p>Software product project</p>
   <a/>
@@ -33,14 +43,11 @@
   <a href="https://github.com/lkuff/Soctech_project1" target="_blank">
    <p>Soctech project</p>
   <a/>
-  <a href="https://github.com/lkuff/OpenRuProject" target="_blank">
-   <p>OpenRu project</p>
-  <a/>
-  <a href="https://github.com/lkuff/SberhealthProject" target="_blank">
-   <p>Sberhealth project</p>
-  <a/>
-  <a href="https://github.com/lkuff/MorizoProject" target="_blank">
-   <p>Morizo project</p>
+</div>
+<div>API</div>
+<div>
+  <a href="https://github.com/lkuff/ReqresIn_diploma_api" target="_blank">
+   <p>ReqresIn project</p>
   <a/>
 </div>
   
